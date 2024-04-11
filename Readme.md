@@ -4,6 +4,10 @@
   <img src="img\readme\giff.gif" alt="Previa" width="400">
 </p>
 
+
+[MinfBook - Rede Social](https://minfermis.github.io/MinfBook-RedeSocial/)
+
+
 ## Visão Geral
 
 Este projeto consiste em uma aplicação web para um sistema de mensagens, com recursos de personalização de tema e busca de mensagens. A aplicação foi desenvolvida utilizando HTML, CSS e JavaScript.
